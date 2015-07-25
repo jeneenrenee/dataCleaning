@@ -35,3 +35,5 @@ The final data frame is called **SubjectAverages_DF** containing averages of 68 
 * std:  estimated standard deviation
 * Example: tbodyacc-mean-x:  mean of the time domain body signal in the x direction, take from the accelerometer
 
+**Units**: Variables are taken from or derived from the gyroscope (angular velocity) are in units of radians/second, and variables taken from or derived from the accelerometer data (acceleration) are in standard gravity units, g.
+
